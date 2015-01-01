@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  John Selmys
+  2011
+-->
+<RelativeLayout
+ 	xmlns:android="http://schemas.android.com/apk/res/android"
+   	android:layout_width="fill_parent"
+   	android:layout_height="fill_parent"
+   	android:orientation="horizontal"
+   	android:layout_gravity="center_horizontal"
+   	android:padding="10sp">
+   	<TextView
+      	android:id="@+id/word"
+      	android:textSize="20dp"
+      	android:textColor="@color/foreground"
+      	android:layout_width="wrap_content"
+      	android:layout_gravity="center"
+      	android:layout_height="wrap_content"/>
+</RelativeLayout>

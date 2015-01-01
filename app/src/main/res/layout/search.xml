@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  John Selmys
+  2011
+-->
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="fill_parent"
+  android:background="@color/background"
+  android:id="@+id/search"
+  android:layout_height="fill_parent">
+    <TextView 
+    	android:textSize="20dp"
+      	android:textColor="@color/foreground"
+    	android:text="Enter Word: " 
+    	android:id="@+id/textView1" 
+    	android:layout_width="wrap_content" 
+    	android:layout_height="wrap_content">
+    </TextView>
+    <EditText 
+    	android:layout_width="120dp"
+		android:layout_weight="1"
+    	android:textSize="20dp"
+      	android:textColor="@color/foreground"
+      	android:text="" 
+    	android:id="@+id/editText1" 
+    	android:layout_height="wrap_content">
+    </EditText>
+</LinearLayout>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  John Selmys
+  2011
+-->
+<resources>
+    <string name="app_name">devil\'s Dictionary</string>
+	<string name="main_title">devil\'s Dictionary</string>
+   	<string name="browse_label">Browse</string>
+   	<string name="search_label">Search</string>
+   	<string name="random_label">Random</string>   	
+   	<string name="about_label">About</string>
+   	<string name="results_label">Search Results</string>
+   	<string name="red_background">Red</string>
+   	<string name="green_background">Green</string>
+   	<string name="blue_background">Blue</string>
+   	<string name="settings_title">Colours</string>
+   	<string name="about_text">\
+The Devil\'s Dictionary started in a weekly paper in 1881
+by Ambrose Bierce. The book offers reinterpretations of terms 
+in the English language, lampooning empty, uncritical thought or talk 
+and political doublespeak, as well as other aspects of human foolishness 
+and frailty.
+\n\nThis version of the dictionary was implemented by John Selmys
+at Seneca College in Toronto - 2011.
+</string>
+   	<string name="exit_label">Exit</string>
+</resources>
